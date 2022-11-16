@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ru.netology.sqr.SQRServiceTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.101 s <<< FAILURE! - in ru.netology.sqr.SQRServiceTest
-shouldFindSquare{String, int, int, int}  Time elapsed: 0.099 s  <<< ERROR!
-org.junit.platform.commons.PreconditionViolationException: Classpath resource [src/test/resources/ResultTest.csv] does not exist
-
